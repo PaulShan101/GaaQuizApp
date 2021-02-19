@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "330466517853",
+    "project_id": "gaaquizapp",
+    "storage_bucket": "gaaquizapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330466517853:android:2c0ed56efbb4a9ce8afeb4",
+        "android_client_info": {
+          "package_name": "com.example.gaaquizapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330466517853-kuigdlosc53vf955tfdkdhjpu5ca6s7q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdpcAmA3_1iA30sjLBei90CzRsX9KUR3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330466517853-kuigdlosc53vf955tfdkdhjpu5ca6s7q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

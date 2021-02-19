@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+
+    tools:showIn="navigation_view">
+
+            <item
+                android:id="@+id/list"
+                android:background="@drawable/background_grad_two"
+                android:icon="@drawable/ic_baseline_list_24"
+                android:title="@string/CountyList" />
+    <item
+        android:id="@+id/nav_fragment"
+        android:icon="@drawable/ic_baseline_fact_check_24"
+        android:title="@string/Facts" />
+
+
+            <item
+                android:id="@+id/nav_mainactivityquiz"
+                android:icon="@drawable/ic_baseline_download_done_24"
+                android:title="@string/menusend" />
+
+    <item
+        android:id="@+id/nav_aboutus"
+        android:icon="@drawable/ic_baseline_people_24"
+        android:title="@string/menu_share" />
+
+            <item
+                android:id="@+id/signup"
+                android:icon="@drawable/ic_baseline_assignment_turned_in_24"
+                android:title="@string/signUp" />
+             <item
+                android:id="@+id/login"
+                android:icon="@drawable/ic_baseline_open_in_new_24"
+                android:title="@string/Login" />
+
+
+
+
+</menu>
+
+
+
+
+
+
+
